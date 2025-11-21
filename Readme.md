@@ -15,4 +15,26 @@ type of MOngoDb:
 Document DB
 key value DB.
 Graph db.
-Multiline DB
+wide column db
+Multimodel DB.
+
+MongoDB uses:
+Developers friendly.
+flexible
+Very compatible js  tech stack.
+Documnet JSON
+increases developers productivity.
+
+Difference between RDBMS(MySql) and NoSQL(MongoDB)
+ MYSQL                                 NOSQL
+Stores the data in the form of       Stores the in collection,document & fields
+Tables,Rows & Columns
+no need of creating table            add in the arrays
+Always uses SQL                      Uses MONGO(MQL),Neo4J(cypher)
+fixed Schema                         Flexible Schema
+Structure Data                       Unstructured Data
+tough horizontal scaling             easy to scale horizontally,vertically
+Relationship foriegn(Keys and joins)   Nested Data (Relationship)         
+Read-heavy apps transaction            Real time,BigData,                     
+ work loads ex:Banking apps              ex:Real time                      
+                                         analysis,social media
